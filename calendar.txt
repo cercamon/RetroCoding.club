@@ -1,0 +1,457 @@
+--- Serie A Championship Calendar ---
+
+--- Matchday 1 ---
+Atalanta vs Verona
+Bologna vs Venezia
+Cagliari vs Udinese
+Como vs Torino
+Empoli vs Roma
+Fiorentina vs Parma
+Genoa vs Napoli
+Inter vs Monza
+Juventus vs Milan
+Lazio vs Lecce
+
+--- Matchday 2 ---
+Venezia vs Atalanta
+Udinese vs Verona
+Torino vs Bologna
+Roma vs Cagliari
+Parma vs Como
+Napoli vs Empoli
+Monza vs Fiorentina
+Milan vs Genoa
+Lecce vs Inter
+Lazio vs Juventus
+
+--- Matchday 3 ---
+Atalanta vs Udinese
+Venezia vs Torino
+Verona vs Roma
+Bologna vs Parma
+Cagliari vs Napoli
+Como vs Monza
+Empoli vs Milan
+Fiorentina vs Lecce
+Genoa vs Lazio
+Inter vs Juventus
+
+--- Matchday 4 ---
+Torino vs Atalanta
+Roma vs Udinese
+Parma vs Venezia
+Napoli vs Verona
+Monza vs Bologna
+Milan vs Cagliari
+Lecce vs Como
+Lazio vs Empoli
+Juventus vs Fiorentina
+Inter vs Genoa
+
+--- Matchday 5 ---
+Atalanta vs Roma
+Torino vs Parma
+Udinese vs Napoli
+Venezia vs Monza
+Verona vs Milan
+Bologna vs Lecce
+Cagliari vs Lazio
+Como vs Juventus
+Empoli vs Inter
+Fiorentina vs Genoa
+
+--- Matchday 6 ---
+Parma vs Atalanta
+Napoli vs Roma
+Monza vs Torino
+Milan vs Udinese
+Lecce vs Venezia
+Lazio vs Verona
+Juventus vs Bologna
+Inter vs Cagliari
+Genoa vs Como
+Fiorentina vs Empoli
+
+--- Matchday 7 ---
+Atalanta vs Napoli
+Parma vs Monza
+Roma vs Milan
+Torino vs Lecce
+Udinese vs Lazio
+Venezia vs Juventus
+Verona vs Inter
+Bologna vs Genoa
+Cagliari vs Fiorentina
+Como vs Empoli
+
+--- Matchday 8 ---
+Monza vs Atalanta
+Milan vs Napoli
+Lecce vs Parma
+Lazio vs Roma
+Juventus vs Torino
+Inter vs Udinese
+Genoa vs Venezia
+Fiorentina vs Verona
+Empoli vs Bologna
+Como vs Cagliari
+
+--- Matchday 9 ---
+Atalanta vs Milan
+Monza vs Lecce
+Napoli vs Lazio
+Parma vs Juventus
+Roma vs Inter
+Torino vs Genoa
+Udinese vs Fiorentina
+Venezia vs Empoli
+Verona vs Como
+Bologna vs Cagliari
+
+--- Matchday 10 ---
+Lecce vs Atalanta
+Lazio vs Milan
+Juventus vs Monza
+Inter vs Napoli
+Genoa vs Parma
+Fiorentina vs Roma
+Empoli vs Torino
+Como vs Udinese
+Cagliari vs Venezia
+Bologna vs Verona
+
+--- Matchday 11 ---
+Atalanta vs Lazio
+Lecce vs Juventus
+Milan vs Inter
+Monza vs Genoa
+Napoli vs Fiorentina
+Parma vs Empoli
+Roma vs Como
+Torino vs Cagliari
+Udinese vs Bologna
+Venezia vs Verona
+
+--- Matchday 12 ---
+Juventus vs Atalanta
+Inter vs Lazio
+Genoa vs Lecce
+Fiorentina vs Milan
+Empoli vs Monza
+Como vs Napoli
+Cagliari vs Parma
+Bologna vs Roma
+Verona vs Torino
+Venezia vs Udinese
+
+--- Matchday 13 ---
+Atalanta vs Inter
+Juventus vs Genoa
+Lazio vs Fiorentina
+Lecce vs Empoli
+Milan vs Como
+Monza vs Cagliari
+Napoli vs Bologna
+Parma vs Verona
+Roma vs Venezia
+Torino vs Udinese
+
+--- Matchday 14 ---
+Genoa vs Atalanta
+Fiorentina vs Inter
+Empoli vs Juventus
+Como vs Lazio
+Cagliari vs Lecce
+Bologna vs Milan
+Verona vs Monza
+Venezia vs Napoli
+Udinese vs Parma
+Torino vs Roma
+
+--- Matchday 15 ---
+Atalanta vs Fiorentina
+Genoa vs Empoli
+Inter vs Como
+Juventus vs Cagliari
+Lazio vs Bologna
+Lecce vs Verona
+Milan vs Venezia
+Monza vs Udinese
+Napoli vs Torino
+Parma vs Roma
+
+--- Matchday 16 ---
+Empoli vs Atalanta
+Como vs Fiorentina
+Cagliari vs Genoa
+Bologna vs Inter
+Verona vs Juventus
+Venezia vs Lazio
+Udinese vs Lecce
+Torino vs Milan
+Roma vs Monza
+Parma vs Napoli
+
+--- Matchday 17 ---
+Atalanta vs Como
+Empoli vs Cagliari
+Fiorentina vs Bologna
+Genoa vs Verona
+Inter vs Venezia
+Juventus vs Udinese
+Lazio vs Torino
+Lecce vs Roma
+Milan vs Parma
+Monza vs Napoli
+
+--- Matchday 18 ---
+Cagliari vs Atalanta
+Bologna vs Como
+Verona vs Empoli
+Venezia vs Fiorentina
+Udinese vs Genoa
+Torino vs Inter
+Roma vs Juventus
+Parma vs Lazio
+Napoli vs Lecce
+Monza vs Milan
+
+--- Matchday 19 ---
+Atalanta vs Bologna
+Cagliari vs Verona
+Como vs Venezia
+Empoli vs Udinese
+Fiorentina vs Torino
+Genoa vs Roma
+Inter vs Parma
+Juventus vs Napoli
+Lazio vs Monza
+Lecce vs Milan
+
+--- Matchday 20 ---
+Verona vs Atalanta
+Venezia vs Bologna
+Udinese vs Cagliari
+Torino vs Como
+Roma vs Empoli
+Parma vs Fiorentina
+Napoli vs Genoa
+Monza vs Inter
+Milan vs Juventus
+Lecce vs Lazio
+
+--- Matchday 21 ---
+Atalanta vs Venezia
+Verona vs Udinese
+Bologna vs Torino
+Cagliari vs Roma
+Como vs Parma
+Empoli vs Napoli
+Fiorentina vs Monza
+Genoa vs Milan
+Inter vs Lecce
+Juventus vs Lazio
+
+--- Matchday 22 ---
+Udinese vs Atalanta
+Torino vs Venezia
+Roma vs Verona
+Parma vs Bologna
+Napoli vs Cagliari
+Monza vs Como
+Milan vs Empoli
+Lecce vs Fiorentina
+Lazio vs Genoa
+Juventus vs Inter
+
+--- Matchday 23 ---
+Atalanta vs Torino
+Udinese vs Roma
+Venezia vs Parma
+Verona vs Napoli
+Bologna vs Monza
+Cagliari vs Milan
+Como vs Lecce
+Empoli vs Lazio
+Fiorentina vs Juventus
+Genoa vs Inter
+
+--- Matchday 24 ---
+Roma vs Atalanta
+Parma vs Torino
+Napoli vs Udinese
+Monza vs Venezia
+Milan vs Verona
+Lecce vs Bologna
+Lazio vs Cagliari
+Juventus vs Como
+Inter vs Empoli
+Genoa vs Fiorentina
+
+--- Matchday 25 ---
+Atalanta vs Parma
+Roma vs Napoli
+Torino vs Monza
+Udinese vs Milan
+Venezia vs Lecce
+Verona vs Lazio
+Bologna vs Juventus
+Cagliari vs Inter
+Como vs Genoa
+Empoli vs Fiorentina
+
+--- Matchday 26 ---
+Napoli vs Atalanta
+Monza vs Parma
+Milan vs Roma
+Lecce vs Torino
+Lazio vs Udinese
+Juventus vs Venezia
+Inter vs Verona
+Genoa vs Bologna
+Fiorentina vs Cagliari
+Empoli vs Como
+
+--- Matchday 27 ---
+Atalanta vs Monza
+Napoli vs Milan
+Parma vs Lecce
+Roma vs Lazio
+Torino vs Juventus
+Udinese vs Inter
+Venezia vs Genoa
+Verona vs Fiorentina
+Bologna vs Empoli
+Cagliari vs Como
+
+--- Matchday 28 ---
+Milan vs Atalanta
+Lecce vs Monza
+Lazio vs Napoli
+Juventus vs Parma
+Inter vs Roma
+Genoa vs Torino
+Fiorentina vs Udinese
+Empoli vs Venezia
+Como vs Verona
+Cagliari vs Bologna
+
+--- Matchday 29 ---
+Atalanta vs Lecce
+Milan vs Lazio
+Monza vs Juventus
+Napoli vs Inter
+Parma vs Genoa
+Roma vs Fiorentina
+Torino vs Empoli
+Udinese vs Como
+Venezia vs Cagliari
+Verona vs Bologna
+
+--- Matchday 30 ---
+Lazio vs Atalanta
+Juventus vs Lecce
+Inter vs Milan
+Genoa vs Monza
+Fiorentina vs Napoli
+Empoli vs Parma
+Como vs Roma
+Cagliari vs Torino
+Bologna vs Udinese
+Verona vs Venezia
+
+--- Matchday 31 ---
+Atalanta vs Juventus
+Lazio vs Inter
+Lecce vs Genoa
+Milan vs Fiorentina
+Monza vs Empoli
+Napoli vs Como
+Parma vs Cagliari
+Roma vs Bologna
+Torino vs Verona
+Udinese vs Venezia
+
+--- Matchday 32 ---
+Inter vs Atalanta
+Genoa vs Juventus
+Fiorentina vs Lazio
+Empoli vs Lecce
+Como vs Milan
+Cagliari vs Monza
+Bologna vs Napoli
+Verona vs Parma
+Venezia vs Roma
+Udinese vs Torino
+
+--- Matchday 33 ---
+Atalanta vs Genoa
+Inter vs Fiorentina
+Juventus vs Empoli
+Lazio vs Como
+Lecce vs Cagliari
+Milan vs Bologna
+Monza vs Verona
+Napoli vs Venezia
+Parma vs Udinese
+Roma vs Torino
+
+--- Matchday 34 ---
+Fiorentina vs Atalanta
+Empoli vs Genoa
+Como vs Inter
+Cagliari vs Juventus
+Bologna vs Lazio
+Verona vs Lecce
+Venezia vs Milan
+Udinese vs Monza
+Torino vs Napoli
+Roma vs Parma
+
+--- Matchday 35 ---
+Atalanta vs Empoli
+Fiorentina vs Como
+Genoa vs Cagliari
+Inter vs Bologna
+Juventus vs Verona
+Lazio vs Venezia
+Lecce vs Udinese
+Milan vs Torino
+Monza vs Roma
+Napoli vs Parma
+
+--- Matchday 36 ---
+Como vs Atalanta
+Cagliari vs Empoli
+Bologna vs Fiorentina
+Verona vs Genoa
+Venezia vs Inter
+Udinese vs Juventus
+Torino vs Lazio
+Roma vs Lecce
+Parma vs Milan
+Napoli vs Monza
+
+--- Matchday 37 ---
+Atalanta vs Cagliari
+Como vs Bologna
+Empoli vs Verona
+Fiorentina vs Venezia
+Genoa vs Udinese
+Inter vs Torino
+Juventus vs Roma
+Lazio vs Parma
+Lecce vs Napoli
+Milan vs Monza
+
+--- Matchday 38 ---
+Bologna vs Atalanta
+Verona vs Cagliari
+Venezia vs Como
+Udinese vs Empoli
+Torino vs Fiorentina
+Roma vs Genoa
+Parma vs Inter
+Napoli vs Juventus
+Monza vs Lazio
+Milan vs Lecce
